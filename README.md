@@ -77,5 +77,5 @@ It will copy all configuration files (Webpack, Babel, ESLint, etc.) into your pr
 Feel free to reach out:
 
 - GitHub: [MohdAli056](https://github.com/MohdAli056)  
-- Email: mohdamjad9490@example.com  
+- Email: mohdamjad9490@gmail.com  
 ```
