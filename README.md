@@ -77,9 +77,5 @@ It will copy all configuration files (Webpack, Babel, ESLint, etc.) into your pr
 Feel free to reach out:
 
 - GitHub: [MohdAli056](https://github.com/MohdAli056)  
-- Email: youremail@example.com  
+- Email: mohdamjad9490@example.com  
 ```
-
-Just replace `youremail@example.com` with your real email, save this as `README.md`, and push!"# MoAli_portfolio" 
-"# MoAli_portfolio" 
-"# MoAli_portfolio" 
